@@ -1,0 +1,40 @@
+<style type="text/css">
+	#head1{
+			height:60px;
+			width:100%;
+		}
+		.home{
+			padding:130px;
+		}
+		.home1{
+			padding:130px;
+		}
+		.home2{
+			padding:130px;
+		}
+		.home3{
+			padding:130px;
+		}
+		.footer{
+			height:80px;
+			width:1350px;
+			background-color:white;	
+			color: black;
+		}
+		.img{
+			left:50%;
+		}
+		
+.txt{
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: red;
+}
+
+.con{
+padding: 100px;	
+	}
+</style>
